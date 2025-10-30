@@ -21,7 +21,6 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that illustrates two processes communicating using shared memory.
-
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -129,20 +128,9 @@ int main() {
         exit(EXIT_SUCCESS);
     }
 }
-
-
-
 ```
-
-
-
 ## OUTPUT
-
-![ex06-1](https://github.com/user-attachments/assets/c50a5aea-68e4-423c-8d35-6ddffc7372fb)
-
-![ex06-2](https://github.com/user-attachments/assets/d7eb1412-4747-48aa-b2bd-d44db36207d5)
-
-
-
+![image](https://github.com/user-attachments/assets/8eb1c2c3-ab2c-4006-ae2d-a3444f4f0104)
+![image](https://github.com/user-attachments/assets/3edd1712-5163-4d28-a2d4-2a5494f79b01)
 # RESULT:
-The program is executed successfully. 
+The program is executed successfully.
